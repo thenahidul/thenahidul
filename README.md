@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2800&pause=800&color=E639FFFF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+The_Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=2800&pause=800&color=E639FFFF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+The_Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
 </p>
 
 ---
