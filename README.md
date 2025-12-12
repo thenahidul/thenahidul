@@ -27,7 +27,7 @@ Strong collaboration with product teams, clean code, and a focus on reliability 
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### WordPress
 <p align="center">
@@ -36,37 +36,38 @@ Strong collaboration with product teams, clean code, and a focus on reliability 
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/woocommerce.svg" height="45" />
 </p>
 
-### 🎨 Frontend & Assets
+### 🎨 Frontend & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,scss,tailwind,webpack,babel" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,scss,tailwind" height="45" /><br>
+  <img src="https://skillicons.dev/icons?i=babel,webpack,npm,bun,vercel" height="45" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,ps,xd" height="45" />
 </p>
 
 ### 🗄️ Backend & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,mysql,postgres,mongodb,docker,git,github,webpack,python,laravel" height="45" />
+  <img src="https://skillicons.dev/icons?i=php,express,nodejs,mysql,postgres,mongodb,nest,prisma,docker" height="45" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,python,laravel,redis,sqlite" height="45" />
 </p>
 
-### 🧰 Tools & Communication
+### 📡 IDE & Collaboration
 <p align="center">
-  <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=phpstorm,vscode" height="45" title="PhpStorm" />
+  <img src="https://skillicons.dev/icons?i=idea,phpstorm,vscode" height="45" title="Editor" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/cursor.svg" height="45" title="cursor" />
 </p>
 
 <p align="center">
-  <!-- Custom collaboration icons -->
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/chatgpt.svg" height="45" title="Chatgpt" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/gemini.svg" height="45" title="Chatgpt" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/claude.svg" height="45" title="Claude" />
-   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/grok.svg" height="45" title="Grok" />
-      <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/perplexity.svg" height="45" title="Perplexity" />
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/grok.svg" height="45" title="Grok" />
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/perplexity.svg" height="45" title="Perplexity" />
 </p>
 
 <p align="center">
-  <!-- Custom collaboration icons -->
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/slack.svg" height="45" title="Slack" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/clickup.svg" height="45" title="Clickup" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/asana.svg" height="45" title="Asana" />
+  <img src="https://skillicons.dev/icons?i=notion,discord" height="45" title="PhpStorm" />
 </p>
 
 ---
@@ -122,18 +123,18 @@ Some of the areas I work with:
 ## 🌐 Connect With Me
 
 <p align="center">
-	<a href="https://linkedin.com/in/thenahidul">
-		<img height="36" src="https://skillicons.dev/icons?i=linkedin" />
-	</a>
-	<a href="mailto:nahiddhaka07@gmail.com">
-		<img height="36" src="https://skillicons.dev/icons?i=gmail" />
-	</a>
-	<a href="https://facebook.com/thenahidul">
-		<img height="36" src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/facebook.svg" />
-	</a>
-	<a href="https://x.com/thenahidul">
-		<img height="36" src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/x.svg" />
-	</a>
+  <a href="https://linkedin.com/in/thenahidul" title="LinkedIn">
+    <img height="36" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:nahiddhaka07@gmail.com" title="Email">
+    <img height="36" src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://facebook.com/thenahidul" title="Facebook">
+    <img height="36" src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/facebook.svg" />
+  </a>
+  <a href="https://x.com/thenahidul" title="X (Twitter)">
+    <img height="36" src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/x.svg" />
+  </a>
 </p>
 
 ---
