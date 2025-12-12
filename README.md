@@ -99,8 +99,8 @@ Some of the areas I work with:
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenahidul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenahidul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-thenahidul.vercel.app/api?username=thenahidul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-thenahidul.vercel.app/api/top-langs/?username=thenahidul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
