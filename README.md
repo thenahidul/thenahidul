@@ -99,12 +99,13 @@ Some of the areas I work with:
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-stats-thenahidul.vercel.app/api?username=thenahidul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-stats-thenahidul.vercel.app/api/top-langs/?username=thenahidul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-thenahidul.vercel.app/api?username=thenahidul&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170"/>
+  <img src="https://github-stats-thenahidul.vercel.app/api/top-langs/?username=thenahidul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenahidul&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenahidul&theme=tokyonight&hide_border=true" height="170"/><br>
+  <img src="https://img.shields.io/badge/Developer%20Score-A%2B-28a745?style=for-the-badge" />
 </p>
 
 ---
