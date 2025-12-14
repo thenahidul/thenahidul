@@ -1,11 +1,47 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=E639FFFF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+The_Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=E639FFFF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
 </p>
 
 ---
 
 ## 👨‍💻 Me
+
+```ts
+class Developer {
+  name:       string;
+  role:       string;
+  experience: string;
+  skills:     string[];
+  principles: string[];
+
+  constructor() {
+    this.name       = "Md Nahidul Islam";
+    this.role       = "Senior Full-Stack Engineer";
+    this.experience = "11+ years";
+
+    this.skills = [
+      "Modern WordPress Development",
+      "WooCommerce & Gutenberg",
+      "PHP, TypeScript, JavaScript & React",
+      "Performance-Focused Architecture",
+    ];
+
+    this.principles = [
+      "Clean code over clever code",
+      "Solve the right problems",
+      "Build systems that scale under pressure",
+    ];
+  }
+
+  whoAmI(): string {
+    return "👇 Look down for the human-friendly explanation.";
+  }
+}
+
+const theNahidul = new Developer();
+theNahidul.helloWorldButBetter();
+```
 
 I'm a senior full-stack WordPress engineer with 11+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript applications.
 
@@ -20,8 +56,8 @@ Strong collaboration with product teams, clean code, and a focus on reliability 
   <img src="https://img.shields.io/badge/WordPress-Engineer-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-Expert-96588A?style=for-the-badge&logo=woo&logoColor=white" />
   <img src="https://img.shields.io/badge/Gutenberg-Specialist-555555?style=for-the-badge&logo=gutenberg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   <img src="https://img.shields.io/badge/Toptal-Talent-0A7BC2?style=for-the-badge&logo=toptal&logoColor=white" />
+	<img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Quality-00C853?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -39,7 +75,7 @@ Strong collaboration with product teams, clean code, and a focus on reliability 
 ### 🎨 Frontend & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,scss,tailwind" height="45" /><br>
-  <img src="https://skillicons.dev/icons?i=babel,webpack,npm,bun,vercel" height="45" /><br>
+  <img src="https://skillicons.dev/icons?i=jquery,babel,webpack,npm,bun,vercel" height="45" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ps,xd" height="45" />
 </p>
 
