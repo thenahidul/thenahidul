@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=E639FFFF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=6E84F7FF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
 </p>
 
 ---
@@ -43,10 +43,11 @@ const theNahidul = new Developer();
 theNahidul.whoAmI();
 ```
 
-I'm a senior full-stack WordPress engineer with 11+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript applications.
+I'm a senior full-stack WordPress engineer with 11+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript applications. Most of my work focuses on scalable plugin architecture, modern block-based development, and production-ready solutions used by thousands of users.
 
-I love solving complex problems, structuring scalable architectures, and improving Core Web Vitals through modern development practices.  
-Strong collaboration with product teams, clean code, and a focus on reliability shape how I work.
+I enjoy solving complex problems, translating product goals into technical plans, and structuring systems that scale well under real traffic. I've led performance optimization efforts that improved Core Web Vitals, SEO, and overall reliability across high-traffic and business-critical projects.
+
+I work closely with product and design teams, mentor other developers, and take full ownership of the code I ship. Clean code, thoughtful architecture, and long-term maintainability guide my approach to building and collaborating.
 
 ---
 
