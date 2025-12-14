@@ -8,7 +8,7 @@
 ## 👨‍💻 Me
 
 ```ts
-class Developer {
+class TheNahidul {
   name:       string;
   role:       string;
   experience: string;
@@ -34,13 +34,13 @@ class Developer {
     ];
   }
 
-  whoAmI(): string {
+  profileSummary(): string {
     return "👇 Look down for the human-friendly explanation.";
   }
 }
 
-const theNahidul = new Developer();
-theNahidul.whoAmI();
+const me = new TheNahidul();
+me.profileSummary();
 ```
 
 I'm a senior full-stack WordPress engineer with 11+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript applications. Most of my work focuses on scalable plugin architecture, modern block-based development, and production-ready solutions used by thousands of users.
