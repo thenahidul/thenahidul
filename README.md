@@ -40,7 +40,7 @@ class Developer {
 }
 
 const theNahidul = new Developer();
-theNahidul.helloWorldButBetter();
+theNahidul.whoAmI();
 ```
 
 I'm a senior full-stack WordPress engineer with 11+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript applications.
