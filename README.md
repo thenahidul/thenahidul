@@ -18,7 +18,7 @@ class TheNahidul {
   constructor() {
     this.name       = "Md Nahidul Islam";
     this.role       = "Senior Full-Stack Engineer";
-    this.experience = "11+ years";
+    this.experience = "12+ years";
 
     this.skills = [
       "Modern WordPress Development",
@@ -43,7 +43,7 @@ const me = new TheNahidul();
 me.profileSummary();
 ```
 
-I'm a senior full-stack WordPress engineer with 11+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript applications. Most of my work focuses on scalable plugin architecture, modern block-based development, and production-ready solutions used by thousands of users.
+I'm a senior full-stack WordPress engineer with 12+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript & Laravel applications. Most of my work focuses on scalable plugin architecture, modern block-based development, and production-ready solutions used by thousands of users.
 
 I enjoy solving complex problems, translating product goals into technical plans, and structuring systems that scale well under real traffic. I've led performance optimization efforts that improved Core Web Vitals, SEO, and overall reliability across high-traffic and business-critical projects.
 
