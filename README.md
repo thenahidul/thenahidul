@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=6E84F7FF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-%E2%88%9E-6E84F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Contracts-6FDA44?style=for-the-badge" />
+</p>
+
 ---
 
 ## 👨‍💻 Me
@@ -51,6 +56,17 @@ I work closely with product and design teams, mentor other developers, and take 
 
 ---
 
+## ⚡ Now
+
+| | |
+|---|---|
+| 🔨 **Building** | WooCommerce extensions & advanced Gutenberg blocks |
+| 🧪 **Exploring** | AI-assisted dev workflows, local LLMs, n8n automations |
+| 📖 **Learning** | Edge-runtime performance, serverless PHP patterns |
+| 💬 **Available for** | Freelance contracts, plugin audits, code reviews |
+
+---
+
 ## 🏷️ Badges
 
 <p align="center">
@@ -58,7 +74,7 @@ I work closely with product and design teams, mentor other developers, and take 
   <img src="https://img.shields.io/badge/WooCommerce-Expert-96588A?style=for-the-badge&logo=woo&logoColor=white" />
   <img src="https://img.shields.io/badge/Gutenberg-Specialist-555555?style=for-the-badge&logo=gutenberg&logoColor=white" />
   <img src="https://img.shields.io/badge/Toptal-Talent-0A7BC2?style=for-the-badge&logo=toptal&logoColor=white" />
-	<img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Quality-00C853?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -89,12 +105,12 @@ I work closely with product and design teams, mentor other developers, and take 
 ### 📡 IDE & Collaboration
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,phpstorm,vscode" height="45" title="Editor" />
-  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/cursor.svg" height="45" title="cursor" />
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/cursor.svg" height="45" title="Cursor" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/chatgpt.svg" height="45" title="Chatgpt" />
-  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/gemini.svg" height="45" title="Chatgpt" />
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/chatgpt.svg" height="45" title="ChatGPT" />
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/gemini.svg" height="45" title="Gemini" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/claude.svg" height="45" title="Claude" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/grok.svg" height="45" title="Grok" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/perplexity.svg" height="45" title="Perplexity" />
@@ -102,28 +118,29 @@ I work closely with product and design teams, mentor other developers, and take 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/slack.svg" height="45" title="Slack" />
-  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/clickup.svg" height="45" title="Clickup" />
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/clickup.svg" height="45" title="ClickUp" />
   <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/refs/heads/main/icons/asana.svg" height="45" title="Asana" />
-  <img src="https://skillicons.dev/icons?i=notion,discord" height="45" title="PhpStorm" />
+  <img src="https://skillicons.dev/icons?i=notion,discord" height="45" />
 </p>
 
 ---
 
 ## 🗂️ What I Build
 
-- Custom WordPress plugins and block themes
-- Advanced Gutenberg blocks with wp-scripts and custom bundlers
-- WooCommerce carts, checkouts, and payment integrations
-- REST API endpoints, licensing systems, and third-party API integrations
-- High-performance themes focused on Core Web Vitals
-- Full-stack JS apps with React, Next.js, GraphQL
+| Area | Details |
+|------|---------|
+| 🔌 **WP Plugins** | Custom plugins, block themes, licensing systems |
+| 🧱 **Gutenberg** | Advanced blocks with wp-scripts and custom bundlers |
+| 🛒 **WooCommerce** | Carts, checkouts, payment integrations, extensions |
+| 🌐 **REST APIs** | Endpoints, third-party integrations, auth systems |
+| ⚡ **Performance** | Core Web Vitals, caching layers, high-traffic optimization |
+| 🖥️ **Full-Stack JS** | React, Next.js, GraphQL applications |
 
 ---
 
 ## 🤖 AI & Experiments
 
-I enjoy exploring AI tools and building small experiments that automate workflows, enhance productivity, and push the boundaries of everyday development.  
-Some of the areas I work with:
+I enjoy exploring AI tools and building small experiments that automate workflows, enhance productivity, and push the boundaries of everyday development.
 
 - ChatGPT, Gemini, Ollama-powered helpers and internal tools
 - AI-assisted code exploration, debugging, and refactoring
@@ -137,8 +154,23 @@ Some of the areas I work with:
 
 <p align="center">
   <img src="https://github-stats-thenahidul.vercel.app/api?username=thenahidul&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170"/>
-  <img src="https://github-stats-thenahidul.vercel.app/api/top-langs/?username=thenahidul&layout=compact&theme=tokyonight&hide_border=true" height="170"/><br>
-  <img src="https://img.shields.io/badge/Developer%20Score-A%2B-28a745?style=for-the-badge" />
+  <img src="https://streak-stats.demolab.com?user=thenahidul&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-thenahidul.vercel.app/api/top-langs/?username=thenahidul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenahidul&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thenahidul&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="100%" />
 </p>
 
 ---
@@ -173,4 +205,6 @@ Some of the areas I work with:
 
 ---
 
-<p align="center">✨ Thanks for visiting! Let's build something great together.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Score-A%2B-28a745?style=for-the-badge" />
+</p>
