@@ -12,6 +12,26 @@
 
 ---
 
+## 🐍 Contribution
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 🌐 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</p>
+
+---
+
 ## 👨‍💻 Me
 
 ```ts
@@ -165,26 +185,6 @@ I enjoy exploring AI tools and building small experiments that automate workflow
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenahidul&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
----
-
-## 🌐 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </p>
 
 ---
