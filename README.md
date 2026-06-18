@@ -221,7 +221,7 @@ I enjoy exploring AI tools and building small experiments that automate workflow
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Score-A%2B-28a745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer%20Score-A%2B-25c2a0?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E84F7&height=110&section=footer" width="100%" />
