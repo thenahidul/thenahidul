@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-%E2%88%9E-6E84F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Contracts-6FDA44?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%26%20Contracts-6FDA44?style=for-the-badge" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I work closely with product and design teams, mentor other developers, and take 
 | 🔨 **Building** | WooCommerce extensions & advanced Gutenberg blocks |
 | 🧪 **Exploring** | AI-assisted dev workflows, local LLMs, n8n automations |
 | 📖 **Learning** | Edge-runtime performance, serverless PHP patterns |
-| 💬 **Available for** | Freelance contracts, plugin audits, code reviews |
+| 💬 **Available for** | Full-time roles, contracts, plugin audits, code reviews |
 
 ---
 
@@ -167,10 +167,14 @@ I enjoy exploring AI tools and building small experiments that automate workflow
 
 ---
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenahidul&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/thenahidul/thenahidul/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
