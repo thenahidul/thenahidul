@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-%E2%88%9E-6E84F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%26%20Contracts-6FDA44?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%26%20Contracts-2E8B3A?style=for-the-badge" />
 </p>
 
 ---
