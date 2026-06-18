@@ -24,14 +24,6 @@
 
 ---
 
-## 🌐 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-</p>
-
----
-
 ## 👨‍💻 Me
 
 ```ts
@@ -70,11 +62,12 @@ const me = new TheNahidul();
 me.profileSummary();
 ```
 
-I'm a senior full-stack WordPress engineer with 12+ years of experience building high-performance plugins, WooCommerce extensions, Gutenberg blocks, and full-stack JavaScript & Laravel applications. Most of my work focuses on scalable plugin architecture, modern block-based development, and production-ready solutions used by thousands of users.
+Senior WP engineer, 12+ years. I build plugins, WooCommerce extensions, and Gutenberg blocks that power high-traffic sites — and I care about the code long after it ships.
 
-I enjoy solving complex problems, translating product goals into technical plans, and structuring systems that scale well under real traffic. I've led performance optimization efforts that improved Core Web Vitals, SEO, and overall reliability across high-traffic and business-critical projects.
-
-I work closely with product and design teams, mentor other developers, and take full ownership of the code I ship. Clean code, thoughtful architecture, and long-term maintainability guide my approach to building and collaborating.
+- 🏅 Toptal Top 3% · Upwork Top Rated
+- 🔌 Shipped production plugins used by thousands of sites — Merchant, Limewoo, and more
+- ⚡ Led Core Web Vitals & performance optimization on business-critical, high-traffic projects
+- 🧑‍🏫 Mentors devs, drives architecture decisions, owns what I ship end to end
 
 ---
 
@@ -185,6 +178,14 @@ I enjoy exploring AI tools and building small experiments that automate workflow
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenahidul&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🌐 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </p>
 
 ---
