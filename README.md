@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=6E84F7FF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=6E84F7FF&center=true&vCenter=true&width=940&lines=Full-Stack+WordPress+Engineer;WooCommerce+%C2%B7+Gutenberg+%C2%B7+Performance;12%2B+Years.+Thousands+of+Sites.+One+Standard.;Open+to+Full-Time+%26+Contracts" />
 </p>
 
 <p align="center">
