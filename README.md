@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E84F7&height=110&section=header" width="100%" />
+
 <!-- Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=800&color=6E84F7FF&center=true&vCenter=true&width=940&lines=Hey+there!+This+is+Nahidul;A+Full-Stack+WordPress+Engineer;WooCommerce+%26+Gutenberg+Expert;Love+to+Build+Clean+%26+Scalable+Solutions" />
@@ -179,6 +181,14 @@ I enjoy exploring AI tools and building small experiments that automate workflow
 
 ---
 
+## 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thenahidul/thenahidul/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -212,3 +222,5 @@ I enjoy exploring AI tools and building small experiments that automate workflow
 <p align="center">
   <img src="https://img.shields.io/badge/Developer%20Score-A%2B-28a745?style=for-the-badge" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E84F7&height=110&section=footer" width="100%" />
